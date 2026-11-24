@@ -1,0 +1,39 @@
+{
+  "name": "alfalaki-mcp",
+  "version": "1.0.0",
+  "description": "MCP stdio bridge to the alfalaki.space astrology server: horoscopes, natal charts, moon phase, planetary hours and transits computed from a real ephemeris.",
+  "mcpName": "io.github.samsali-g/alfalaki",
+  "type": "module",
+  "bin": {
+    "alfalaki-mcp": "index.js"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test/smoke.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "astrology",
+    "ephemeris",
+    "horoscope",
+    "natal-chart",
+    "moon-phase"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samsali-g/alfalaki-mcp.git"
+  },
+  "homepage": "https://alfalaki.space",
+  "bugs": {
+    "url": "https://alfalaki.space/faq/"
+  }
+}
