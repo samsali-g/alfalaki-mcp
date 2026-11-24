@@ -9,16 +9,6 @@
     "url": "https://github.com/samsali-g/alfalaki-mcp",
     "source": "github"
   },
-  "packages": [
-    {
-      "registryType": "npm",
-      "identifier": "alfalaki-mcp",
-      "version": "1.0.0",
-      "transport": {
-        "type": "stdio"
-      }
-    }
-  ],
   "remotes": [
     {
       "type": "streamable-http",
