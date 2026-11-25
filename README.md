@@ -1,6 +1,7 @@
 # alfalaki-mcp
 
 [![mcptry](https://mcptry.com/badge/io.github.samsali-g/alfalaki)](https://mcptry.com/servers/io.github.samsali-g/alfalaki)
+[![Glama MCP](https://img.shields.io/badge/Glama-MCP%20Directory-blue)](https://glama.ai/mcp/connectors/io.github.samsali-g/alfalaki)
 
 MCP stdio bridge to **[alfalaki.space](https://alfalaki.space)** — astrology computed from a
 real ephemeris rather than recycled horoscope text. The heavy lifting happens on the server
