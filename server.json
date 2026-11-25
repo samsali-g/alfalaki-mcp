@@ -3,8 +3,25 @@
   "name": "io.github.samsali-g/alfalaki",
   "title": "Alfalaki Astrology",
   "description": "Astrology from a real ephemeris: horoscopes, natal charts, moon phase, transits, planetary hours.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://alfalaki.space",
+  "icons": [
+    {
+      "src": "https://alfalaki.space/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://alfalaki.space/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": ["192x192"]
+    },
+    {
+      "src": "https://alfalaki.space/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
   "repository": {
     "url": "https://github.com/samsali-g/alfalaki-mcp",
     "source": "github"

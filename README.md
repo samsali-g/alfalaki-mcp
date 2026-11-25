@@ -1,5 +1,7 @@
 # alfalaki-mcp
 
+[![mcptry](https://mcptry.com/badge/io.github.samsali-g/alfalaki)](https://mcptry.com/servers/io.github.samsali-g/alfalaki)
+
 MCP stdio bridge to **[alfalaki.space](https://alfalaki.space)** — astrology computed from a
 real ephemeris rather than recycled horoscope text. The heavy lifting happens on the server
 (astronomy-engine + Swiss-style ephemeris data); this package is a thin adapter so any MCP

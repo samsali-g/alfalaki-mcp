@@ -1,6 +1,6 @@
 {
   "name": "alfalaki-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP stdio bridge to the alfalaki.space astrology server: horoscopes, natal charts, moon phase, planetary hours and transits computed from a real ephemeris.",
   "mcpName": "io.github.samsali-g/alfalaki",
   "type": "module",
